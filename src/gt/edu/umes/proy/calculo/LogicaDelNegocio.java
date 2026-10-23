@@ -22,7 +22,7 @@ public class LogicaDelNegocio {
         }
         return true;
     }
-//prueba
+    
     /** Calcula el total en segundos. */
     public long calcularSegundos(int meses, int semanas, int dias, int horas, int minutos) {
         return meses * SEG_MES
