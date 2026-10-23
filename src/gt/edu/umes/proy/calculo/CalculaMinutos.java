@@ -14,3 +14,5 @@ public class CalculaMinutos {
         System.out.println("Total en segundos: " + logica.calcular(args));
     }
 }
+
+//prueba3
