@@ -1,7 +1,7 @@
 package gt.edu.umes.proy.calculo;
 
 public class CalculaMinutos {
-
+//prueba2
     public static void main(String[] args) {
         LogicaDelNegocio logica = new LogicaDelNegocio();
 
