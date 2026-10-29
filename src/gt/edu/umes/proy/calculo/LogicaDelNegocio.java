@@ -22,7 +22,7 @@ public class LogicaDelNegocio {
         }
         return true;
     }
-    
+    //Commit prueba que todo funcione 29 Octubre
     //Commit 23 Octubre 2026 fase I
     /** Calcula el total en segundos. */
     public long calcularSegundos(int meses, int semanas, int dias, int horas, int minutos) {
