@@ -22,6 +22,7 @@ public class LogicaDelNegocio {
         }
         return true;
     }
+    //cambio prueba 30 pct antes de presentacion
     //Commit prueba que todo funcione 29 Octubre
     //Commit 23 Octubre 2026 fase I
     /** Calcula el total en segundos. */
